@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<article class="ngdao">
+
+  <h1>ngDAO: {{ page.nombre }}</h1>
+
+  <div>
+    {{ content }}
+  </div>
+
+</article>
