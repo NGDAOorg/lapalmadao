@@ -1,0 +1,10 @@
+---
+layout: page
+title: ngDAOs
+---
+{% for ngDAO in site.ngdaos %}
+  <div class="ngdao">
+    <h2>{{ ngDAO.nombre }}</a></h2>
+    {{ ngDAO.content }}
+  </div>
+{% endfor %}
