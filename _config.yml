@@ -4,4 +4,4 @@ description: DAO de apoyo a otras DAOs sin ánimo de lucro
 collections:
   ngdaos:
     output: true
-      permalink: pagina
+      permalink:pagina
