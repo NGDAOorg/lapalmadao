@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="ngdao">
+<article class="ngdaos">
 
   <h1>ngDAO: {{ page.nombre }}</h1>
 
