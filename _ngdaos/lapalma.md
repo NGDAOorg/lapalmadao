@@ -1,9 +1,9 @@
 ---
-layout:ngdao
-pagina:"lapalma"
-nombre:"La Palma ngDAO"
+layout: ngdao
+pagina: "lapalma"
+nombre: "La Palma ngDAO"
 web: "https://lapalma.ngdao.org"
-descripcion:Ayuda directa, íntegra y transparente para los afectados por el volcán Cumbre Vieja de la Palma
+descripcion: Ayuda directa, íntegra y transparente para los afectados por el volcán Cumbre Vieja de la Palma
 web2: "https://bit.ly/lapalmadao"
 blockchain: "Polygon"
 framwork: "Aragon Client"
