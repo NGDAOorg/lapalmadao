@@ -11,7 +11,7 @@
 <ul>
   {% for ngdao in site.ngdaos %}
     <li>
-      <h2>{{ ngdao.name }}</h2>
+      <h2>{{ ngdao.nombre }}</h2>
       <h3>{{ ngdao.descripcion }}</h3>
       <p>{{ ngdao.content | markdownify }}</p>
     </li>
