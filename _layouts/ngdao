@@ -6,6 +6,7 @@ layout: default
   <h1>ngDAO: {{ page.nombre }}</h1>
 
   <div>
+  Layout:
     {{ content }}
   </div>
 
