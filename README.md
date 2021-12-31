@@ -1,4 +1,5 @@
-# Listado de DAOs sin ánimo de lucro
+# ngDAO
+## DAOs sin ánimo de lucro
 
 {% for ngDAO2 in site.ngdaos %}
   <div class="ngdao">
