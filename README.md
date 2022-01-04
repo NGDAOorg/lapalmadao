@@ -1,4 +1,4 @@
-{{ ngdao.web }}
+{{ site.ngdaos.lapalma.nombre }}
 
 ## Dao de soporte y ayuda a otras DAOs
 
@@ -17,7 +17,7 @@
 
 * Formación
 * Marketing
-* {{ ngdao.web }}
+* {{ site.ngdaos.lapalma.nombre }}
 
 **Wiki:** <https://github.com/NGDAOorg/ngdao/wiki>
 
