@@ -5,7 +5,7 @@ title: ngDAOs
 ---
 {% for ngDAO in site.ngdaos %}
   <div class="ngdao">
-    <h2>{{ ngDAO.nombre }}</a></h2>
+    <h2><a href="{{ ngDAO.web }}">{{ ngDAO.nombre }}</a></h2>
     <h3>{{ ngDAO.descripcion }}</a></h2>
     {{ ngDAO.content }}
   </div>
