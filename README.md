@@ -1,3 +1,7 @@
+---
+title: ngDAOs
+---
+
 # ngDAO
 
 ## Dao de soporte y ayuda a otras DAOs
