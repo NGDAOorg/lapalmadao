@@ -1,7 +1,7 @@
 # ngDAO
 ## Dao de soporte y ayuda a otras DAOs
 
-### ngDAOs adscritas al proyecto
+### ngDAOs adscritas al proyecto:
 {% for ngdao in site.ngdaos %}    
         <h2><a href="{{ ngdao.web }}">{{ ngdao.nombre }}</a></h2>
         <h3>{{ ngdao.descripcion }}</h3>
