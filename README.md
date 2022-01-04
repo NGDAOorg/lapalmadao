@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="/assets/css/styles.css">
 <div class="scrollmenu">
-  <a href="#home">Listado de ngDAOs</a>
-  <a href="#news">Wiki</a>
-  <a href="#contact">Debate</a>
+  <a href="/ngdaos.html">Listado de ngDAOs</a>
+  <a href="https://github.com/NGDAOorg/ngdao/wiki">Wiki</a>
+  <a href="https://github.com/NGDAOorg/ngdao/discussions">Debate</a>
 </div>
 
 # ngDAO
