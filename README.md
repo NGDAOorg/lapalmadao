@@ -1,7 +1,7 @@
 ## DAOs sin ánimo de lucro
 
 {% for ngdao in site.ngdaos %}    
-        <h2><a href="{{ ngDAO.web }}">{{ ngdao.nombre }}</a></h2>
+        <h2><a href="{{ ngdao.web }}">{{ ngdao.nombre }}</a></h2>
         <h3>{{ ngdao.descripcion }}</h3>
 {% endfor %}
 
