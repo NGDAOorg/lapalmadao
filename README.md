@@ -1,11 +1,9 @@
 ## DAOs sin ánimo de lucro
 
-{% for ngDAO in site.ngdaos %}    
-        ## [{{ ngDAO.nombre }}]({{ ngDAO.web }})
-        ### {{ ngDAO.descripcion }}
+{% for ngdao in site.ngdaos %}    
+        ## [{{ ngdao.nombre }}]({{ ngDAO.web }})
+        ### {{ ngdao.descripcion }}
 {% endfor %}
-
----
 
 ## DAO de apoyo a otras DAOs sin ánimo de lucro o ngDAOs
 **Url:** https://www.ngdao.org
