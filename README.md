@@ -7,9 +7,10 @@
 
 {% endfor %}
 
-**Url:** https://www.ngdao.org
+---
 
 ## DAO de apoyo a otras DAOs sin ánimo de lucro o ngDAOs
+**Url:** https://www.ngdao.org
 * Formación
 * Marketing
 
