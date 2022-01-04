@@ -1,3 +1,5 @@
+{{ ngdao.web }}
+
 ## Dao de soporte y ayuda a otras DAOs
 
 ### ngDAOs adscritas al proyecto:
@@ -9,12 +11,13 @@
 
 ## DAO de apoyo a otras DAOs sin ánimo de lucro o ngDAOs
 
-**Url:** (https://www.ngdao.org)
+**Url:** [](https://www.ngdao.org)
 
 * Formación
 * Marketing
+* {{ ngdao.web }}
 
-**Wiki:** (https://github.com/NGDAOorg/ngdao/wiki)
+**Wiki:** [](https://github.com/NGDAOorg/ngdao/wiki)
 
 ## ¿Cómo ayudar?
 
