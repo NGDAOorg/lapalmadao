@@ -1,21 +1,19 @@
-# ngDAO
 ## DAOs sin ánimo de lucro
 
 {% for ngDAO2 in site.ngdaos %}
-  <div class="ngdao">
+  <li>
     <h2>DAO: <a href="{{ ngDAO2.web }}">{{ ngDAO2.nombre }}</a></h2>
-    ## {{ ngDAO2.nombre }}
-  </div>
+    <h3>{{ ngdao.descripcion }}</h3>
+  </li>
 {% endfor %}
 
-<ul>
-  {% for ngdao in site.ngdaos %}
-    <li>
-      <h2>{{ ngdao.name }}</h2>
-      <h2>{{ ngdao.nombre }}</h2>
-      <h3>{{ ngdao.descripcion }}</h3>
-      <p>{{ ngdao.content | markdownify }}</p>
-    </li>
-  {% endfor %}
-</ul>
+**Url:** https://www.ngdao.org
 
+## DAO de apoyo a otras DAOs sin ánimo de lucro o ngDAOs
+* Formación
+* Marketing
+
+**Wiki:** https://github.com/NGDAOorg/ngdao/wiki
+
+## ¿Cómo ayudar?
+* Habla sobre nosotros y colabora con las DAOs que aparecen en el lsistado de ngDAOs
