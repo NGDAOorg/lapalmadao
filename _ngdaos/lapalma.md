@@ -12,4 +12,4 @@ token_tycker: "LPD"
 token_address: "0x3924da4fb1070612433f89b459b60e6f49b6bea6"
 send_founds_to: "0xc2d6f110db507146433408401f3f34f07523367b"
 ---
-Contenido de la DAO
+
