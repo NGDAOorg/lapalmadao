@@ -19,5 +19,5 @@
 
 ## ¿Cómo ayudar?
 
-* Habla sobre nosotros y colabora con las DAOs que aparecen en el lsistado de ngDAOs
+* Habla sobre nosotros y colabora con las DAOs que aparecen en el listado de ngDAOs
 
