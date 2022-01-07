@@ -20,10 +20,10 @@ div.ngdao {
   border-radius: 10px;
   background-color: #d5e1df;
   margin-bottom: 2px;
-  padding-top: 2px;
-  padding-right: 2px;
-  padding-bottom: 2px;
-  padding-left: 3px;}
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;}
 
 .logo {
   display: block;
