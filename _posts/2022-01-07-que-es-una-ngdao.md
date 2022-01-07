@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "¿Qué es una ngDAO?"
+---
 # NGDAOs, las ONGs transparentes basadas en Organizaciones Autónomas Descentralizadas
 
 ### Un nuevo tipo de organizaciones basadas en Blockchain emergen en el panorama de las organizaciones sin ánimo de lucro. Organizaciones no-gubernamentales, transparentes, democráticas, participativas y con custodia de fondos seguros, las llamadas ngDAOs (no-gubernamental Decentralized Autonomous Organizations)
