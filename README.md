@@ -17,18 +17,26 @@
 
 -------------------
 
-## Transparencia total
+## 100% Transparente
 
 **Cualquier persona**, de dentro y fuera de la ngDAO, **puede saber cuantos fondos tiene la DAO y como los distribuye.**
+
+## Corrupción CERO
+
+* **La transparencia es** siempre **el mejor antídoto contra la corrupción**, y una ngDAO es 100% transparente.
+* **Los bienes** de una ngDAO **son inconfiscables** por ningún estado o gobierno.
+* **Los bienes** de una ngDAO **no pueden ser sustraidos.**
+* **No hay intermediarios** entre el donante -> ngDAO -> beneficiario.
+* **Los estatutos de una ngDAO** (un contrato inteligente en una Blockchain) **son transparentes e inamobibles** de por vida.
 
 ## Gestión democrática
 
 * **Ningún fondo es transferido sin haber pasado una votación previa.**
-* **El token de la ngDAO hace de token de gobernanza** y otorga poder de voto.
+* **El token** (participaciones) **de la ngDAO hace de token de gobernanza** y otorga poder de voto.
 
 ### Promotores
 
-Los promotores de la ngDAO son los primeros en obtener tokens de gobernanza que poco a poco se irán diluyendo entre los tokens de los donantes y los de los beneficiarios
+**Los promotores de la ngDAO son los primeros en obtener tokens** de gobernanza que poco a poco se irán diluyendo entre los tokens de los donantes y los de los beneficiarios
 
 ### Donantes
 
