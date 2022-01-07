@@ -5,6 +5,7 @@
   <a href="/consultoria.html">Consultoría</a>
   <a href="https://github.com/NGDAOorg/ngdao/wiki">Wiki</a>
   <a href="https://github.com/NGDAOorg/ngdao/discussions">Debate</a>
+  <a href="/blog.html">Blog</a>
 </div>
 
 # ngDAO
