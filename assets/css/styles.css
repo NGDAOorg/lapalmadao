@@ -19,8 +19,10 @@ div.scrollmenu a:hover {
 div.ngdao {
   background-color: #d5e1df;
   margin-bottom: 2px;
-  padding: 3px;
-}
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 3px;}
 
 .logo {
   display: block;
