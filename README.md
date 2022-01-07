@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="/assets/css/styles.css">
 <div class="scrollmenu">
   <a href="/ngdaos.html">Listado de ngDAOs</a>
-  <a href="/consultoría.md">Consultoría</a>
+  <a href="/consultoria.md">Consultoría</a>
   <a href="https://github.com/NGDAOorg/ngdao/wiki">Wiki</a>
   <a href="https://github.com/NGDAOorg/ngdao/discussions">Debate</a>
 </div>
