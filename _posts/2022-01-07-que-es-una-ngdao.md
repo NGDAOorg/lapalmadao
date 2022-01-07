@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "¿Qué es una ngDAO?"
+tags: ngDAOs
 ---
 # NGDAOs, las ONGs transparentes basadas en Organizaciones Autónomas Descentralizadas
 
