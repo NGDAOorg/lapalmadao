@@ -13,6 +13,7 @@
 
 ### Porque otra forma de gestionar fondos y hacer llegar las ayudas a gente necesitada es posible
 #### Todo gracias a las Organizaciones Autónomas Descentralizadas y la Blockchain
+#### El término ngDAO viene de "non-governmental Decentalized Autonomous Organization" a diferencia del término NGO "Non-Governmental Organization"
 
 -------------------
 
