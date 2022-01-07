@@ -1,6 +1,7 @@
 <img src="/assets/images/ngDAOlogo9.png" class="logo" alt="ngDAO logo">
 <link rel="stylesheet" href="/assets/css/styles.css">
 <div class="scrollmenu">
+  <a href="/">Inicio</a>
   <a href="/ngdaos.html">Listado de ngDAOs</a>
   <a href="/consultoria.html">Consultoría</a>
   <a href="https://github.com/NGDAOorg/ngdao/wiki">Wiki</a>
