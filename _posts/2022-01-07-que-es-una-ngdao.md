@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defautl
 title:  "¿Qué es una ngDAO?"
 tags: ngDAOs
 ---
