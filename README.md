@@ -3,7 +3,7 @@
 <div class="scrollmenu">
   <a href="/">Inicio</a>
   <a href="/ngdaos.html">Listado de ngDAOs</a>
-  <a href="/colabora.html">Colaborar</a>
+  <a href="/colaborar.html">Colaborar</a>
   <a href="https://daos.academy">Formación</a>
   <a href="/consultoria.html">Consultoría</a>
   <a href="https://github.com/NGDAOorg/ngdao/wiki">Wiki</a>
