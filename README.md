@@ -3,6 +3,7 @@
 <div class="scrollmenu">
   <a href="/">Inicio</a>
   <a href="/ngdaos.html">Listado de ngDAOs</a>
+  <a href="/colabora.html">Colaborar</a>
   <a href="https://daos.academy">Formación</a>
   <a href="/consultoria.html">Consultoría</a>
   <a href="https://github.com/NGDAOorg/ngdao/wiki">Wiki</a>
@@ -75,7 +76,8 @@
   
 ## Entramado de ngDAOs
 
-  ngDAO pretende ser **un entramado de ngDAOs que puedan apoyarse unas a otras** por el efecto red y compartiendo tokens de manera que puedan participar en votaciones como conjunto o beneficiarse del valor de los tokens de otra ngDAO
+  Gracias a la tokenización, ngDAO pretende ser **un entramado de ngDAOs que puedan apoyarse unas a otras** por el efecto red y compartiendo tokens de manera que puedan participar en votaciones o beneficiarse del valor de los fondos o los tokens de otras ngDAOs.
+  ![Entramado de ngDAOs](/assets/images/Esquema ngDAOs.png)
 
 --------------------
 
@@ -90,4 +92,5 @@
 ## ¿Cómo ayudar?
 
 * Habla sobre nosotros y colabora con las DAOs que aparecen en el listado de ngDAOs
+* Entra en la sección colaborar para más información
 
