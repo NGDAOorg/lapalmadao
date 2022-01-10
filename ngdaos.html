@@ -20,8 +20,8 @@ DAOs adscritas al proyecto de ayuda ngDAO
   <div class="ngdao">
     <h2><a href="{{ ngDAO.web }}">{{ ngDAO.nombre }}</a></h2>
     <h3>{{ ngDAO.descripcion }}</a></h2>
-    Puedes <b>donar fondos</b> a la dirección: {{ ngDAO.send_founds_to }} en la blockchain {{ ngDAO.blockchain }}
-    Puedes <b>acceder a la DAO</b> en {{ ngDAO.framwork }} en el nombre de DAO {{ ngDAO.DAO_name }} en la blockchain {{ ngDAO.blockchain }}
+    <p>Puedes <b>donar fondos</b> a la dirección: <b>{{ ngDAO.send_founds_to }}</b> en la blockchain <b>{{ ngDAO.blockchain }</b>}</p>
+    <p>Puedes <b>acceder a la DAO</b> en <b>{{ ngDAO.framwork }}</b>, con el nombre de DAO <b>{{ ngDAO.DAO_name }}</b>, en la blockchain de <b>{{ ngDAO.blockchain }}</b></p>
     <div>{{ ngDAO.content }}</div>
   </div>
 {% endfor %}
