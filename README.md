@@ -1,3 +1,4 @@
+{% include /layouts/head.html %}
 <img src="/assets/images/ngDAOlogo9.png" class="logo" alt="ngDAO logo">
 <link rel="stylesheet" href="/assets/css/styles.css">
 <div class="scrollmenu">
