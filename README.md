@@ -56,6 +56,8 @@
 
 **Las ayudas llegan directamente a la ngDAO,** sin intermediarios y de forma íntegra.
 
+ ![Cómo funciona una ngDAO](/assets/images/Como funciona una ngDAO.png)
+
 ## Economía DUAL y autónoma
 
 ### Fondos en criptomonedas
