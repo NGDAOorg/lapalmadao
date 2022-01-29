@@ -27,6 +27,7 @@ Ya hemos hecho mención de algunas de las **características de una ngDAO**, per
   * Este dinero **tampoco podrá ser embargado o sustraido** por nadie **estando en poder del destinatario** de las ayudas.
     * **Si** el destinatario **no estaba bancarizado, por el hecho de recibir estas ayudas ya lo está**, con la particularidad que se convierte en su propio banco, no sufrirá corralitos, ni embargos inesperados, ni comisiones de mantenimiento.
 * **Democrática; los donantes y los beneficiarios de las ayudas participan en la toma de decisiónes** sobre el reparto de los fondos.
+* **Estatutos inmutables basados en contratos inteligentes**; sabes que nadie te va a cambiar las reglas del juego a mitad de partido, **un punto más de confianza** para los que apoyen al proyecto de ayudas. 
 * **Los tokens** (participaciones) también **sirven como token de fidelización** en comercios, de manera que los perceptores de ayudas que participan en la DAO también se benefician de descuentos en comercios.
 * Las ngDAOs se convierten en un estupendo **punto de referencia para NFTs solidarios** con beneficio estas DAOs. 
 
@@ -34,11 +35,11 @@ Ya hemos hecho mención de algunas de las **características de una ngDAO**, per
 
 Desde la aparición en 2009 de Bitcoin y posteriormente en 2015 Ethereum, la tecnología que sustenta a ambas redes, la Blockchain, ha dado muestras de cambiar radicalmente el panorama de la economía y las finanzas, pero también el sistema de organizar la sociedad.
 
-Los contratos inteligentes, porciones de software inmutable que se ejecuta en la blockchain, son inmutables y por tanto aportan seguridad a quienes los ejecutan o les confían los “estatutos” de su organización y a quienes han de confiar en ellos para invertir o votar en la toma de decisiones.
+Los contratos inteligentes, porciones de software inmutable que se ejecuta en la blockchain, aportan seguridad a quienes los ejecutan o les confían los “estatutos” de su organización y a quienes han de confiar en ellos para donar fondos o votar en la toma de decisiones.
 
 Las ONGs tradicionales son agrupaciones de personas que se unen por un fin común y buscan recursos para gestionar sus actividades, pero en pocas ocasiones o ninguna se tienen en cuenta la opinión de los donantes de ayuda o de los propios damnificados, algo que en una ngDAO sí sería posible.
 
-(Pendiente de finalizar)
+"Tengo plena confianza en que muy pronto proliferarán nuevas ngDAOs y que muchas de las ONGs actuales se irán reconvirtiendo a este nuevo modelo de ayuda en futuros proyectos." Ignacio Baixauli
 
 # Preguntas planteadas en Quora sobre las ONGs
 * [¿Cual es el rol de una ONG](https://es.quora.com/Cu%C3%A1l-es-el-rol-de-una-ONG)
