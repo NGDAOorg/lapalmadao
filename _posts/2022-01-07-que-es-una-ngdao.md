@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-cayman
 layout: defautl
 title:  "¿Qué es una ngDAO?"
 tags: ngDAO
@@ -7,7 +8,29 @@ tags: ngDAO
 
 ### Un nuevo tipo de organizaciones basadas en Blockchain emergen en el panorama de las organizaciones sin ánimo de lucro. Organizaciones no-gubernamentales, transparentes, democráticas, participativas y con custodia de fondos seguros, las llamadas ngDAO (no-gubernamental Decentralized Autonomous Organizations)
 
-En Quora, red social de preguntas y respuestas, hay varias cuestiones planteadas sobre la fiabilidad de las ONGs tal como las conocemos hasta ahora, y es común encontrar comentarios clasificándolas de organizaciones opacas, negocios lucrativos, en connivencia con el poder, etc. Evidentemente no todas las ONGs son así y es una pena que por los escándalos de unas pocas, las que realmente hacen una buena labor caigan en desgracia o la gente con ganas de ayudar desconfíe de ellas. No obstante, qué bueno sería que existieran ONGs transparentes, sin corrupción, sin pérdidas de fondos, etc. desde el mismo momento de su creación. Es aquí donde emergen las NGDAOs.
+## Opiniones sobre la ONGs
+
+En Quora, red social de preguntas y respuestas, hay varias cuestiones planteadas sobre la fiabilidad de las ONGs tal como las conocemos hasta ahora. **Podemos encontrar comentarios alagadoras hacia las ONGs, pero también es común encontrar comentarios clasificándolas de organizaciones opacas, negocios lucrativos, en connivencia con el poder, etc.** Evidentemente no todas las ONGs son así y es una pena que por los escándalos de unas pocas las que realmente hacen una buena labor caigan en desgracia o la gente con ganas de ayudar desconfíe de ellas. No obstante, **qué bueno sería que existieran ONGs que garantizaran al 100%, transparencia, corrupción cero, ninguna pérdida de fondos hasta llegar a destino o que estos fondos no van a poder ser confiscados, embargados o sustraidos por nadie. Es aquí donde emergen las ngDAOs.**
+
+"Don't Trust, Verify, **no confíes, verifica**, este uno de los lemas de Bitcoin. **Por fin tenemos un sistema de ayudas en el que no necesitamos confiar, tan sólo tenemos que ver como son las cosas y verificarlas. Una ngDAO no necesita un notario** para demostrar que lo que ha hecho es tal como dice que es, **de eso ya se encarga la blockchain** sobre la que trabaja, **ni el donante o el perceptor necesitan contratar a un auditor** para saber cómo se han gestionado los fondos, porque **ellos mismos pueden comprobar cualquier movimiento** en el mismo momento de efectuarse, o bien dentro de 50 años, por que todos los movimientos estarán ahi de por vida." Ignacio Baixauli, asesor de ngDAO. 
+
+## Características de una ngDAO
+
+Ya hemos hecho mención de algunas de las **características de una ngDAO**, pero podríamos sintetizarlas en las siguientes:
+* **100% transparente.**
+  * **No se necesitan ni notarios ni auditores.**
+  * **Cualquier movimiento** o votación de la ngDAO **queda registrado de forma inmutable** en una blockchain
+  * **Cualquier persona puede consultar todos los movimientos** de la ngDAO desde cualquier lugar del mundo y en cualquier momento presente o futuro.
+* Si la corrupción es inversamente proporcional a la transparencia, **0% de corrupción.**
+* **Los fondos** de la ngDAO:
+  * **Cualquier fondo** de la ngDAO, desde el momento que llega a sus finanzas hasta que llega a los beneficiarios de las ayudas, **es inconfiscable** e inenbargable por ningún delincuente o gobierno por muy poderoso que este sea. 
+  * Este dinero **tampoco podrá ser embargado o sustraido** por nadie **estando en poder del destinatario** de las ayudas.
+    * **Si** el destinatario **no estaba bancarizado, por el hecho de recibir estas ayudas ya lo está**, con la particularidad que se convierte en su propio banco, no sufrirá corralitos, ni embargos inesperados, ni comisiones de mantenimiento.
+* **Democrática; los donantes y los beneficiarios de las ayudas participan en la toma de decisiónes** sobre el reparto de los fondos.
+* **Los tokens** (participaciones) también **sirven como token de fidelización** en comercios, de manera que los perceptores de ayudas que participan en la DAO también se benefician de descuentos en comercios.
+* Las ngDAOs se convierten en un estupendo **punto de referencia para NFTs solidarios** con beneficio estas DAOs. 
+
+## Blockchain y las DAOs, un cambio de paradigma y nuevas posibilidades para próximas ONGs o las actualmente están en funcionamiento.
 
 Desde la aparición en 2009 de Bitcoin y posteriormente en 2015 Ethereum, la tecnología que sustenta a ambas redes, la Blockchain, ha dado muestras de cambiar radicalmente el panorama de la economía y las finanzas, pero también el sistema de organizar la sociedad.
 
