@@ -1,6 +1,5 @@
 ---
-theme: jekyll-theme-cayman
-layout: defautl
+layout: post
 title:  "¿Qué es una ngDAO?"
 tags: ngDAO
 ---
