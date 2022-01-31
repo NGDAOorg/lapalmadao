@@ -1,22 +1,8 @@
 ---
 theme: jekyll-theme-cayman
 layout: default
-title: Listado de ngDAOs
+title: Listado de ngDAOs - DAOs adscritas al proyecto de ayuda ngDAO
 ---
-{% include head.html %}
-<link rel="stylesheet" href="/assets/css/styles.css">
-<div class="scrollmenu">
-  <a href="/ngdaos.html">Listado de ngDAOs</a>
-  <a href="/colaborar.html">Colaborar</a>
-  <a href="https://daos.academy">Formación</a>
-  <a href="/consultoria.html">Consultoría</a>
-  <a href="https://github.com/NGDAOorg/ngdao/wiki">Wiki</a>
-  <a href="https://github.com/NGDAOorg/ngdao/discussions">Debate</a>
-  <a href="/blog.html">Blog</a>
-</div>
-<h1>Listado de ngDAOs</h1>
-DAOs adscritas al proyecto de ayuda ngDAO
-<hr/>
 {% for ngDAO in site.ngdaos %}
   <div class="ngdao">
     <h2><a href="{{ ngDAO.web }}">{{ ngDAO.nombre }}</a></h2>
