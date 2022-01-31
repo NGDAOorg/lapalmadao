@@ -1,16 +1,6 @@
-{% include head.html %}
-<img src="/assets/images/ngDAOlogo9.png" class="logo" alt="ngDAO logo">
-<link rel="stylesheet" href="/assets/css/styles.css">
-<div class="scrollmenu">
-  <a href="/">Inicio</a>
-  <a href="/ngdaos.html">Listado de ngDAOs</a>
-  <a href="/colaborar.html">Colaborar</a>
-  <a href="https://daos.academy">Formación</a>
-  <a href="/consultoria.html">Consultoría</a>
-  <a href="https://github.com/NGDAOorg/ngdao/wiki">Wiki</a>
-  <a href="https://github.com/NGDAOorg/ngdao/discussions">Debate</a>
-  <a href="/blog.html">Blog</a>
-</div>
+---
+layout: default
+---
 
 # ngDAO
 
